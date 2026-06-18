@@ -1,0 +1,3 @@
+Expo build URL: https://expo.dev/accounts/limasilvalima/projects/app-conversor/builds/538d6a31-44bc-43b0-9ee5-ea0dfbff9d2c
+
+gernado apk  : npx eas build --profile apk-test --platform android
